@@ -1,6 +1,4 @@
-Here is the code without the comments:
 
-```javascript
 const startButton = document.getElementById('startButton');
 const instructions = document.querySelector('.instructions');
 
@@ -101,4 +99,4 @@ function highlightRecipe(listItems, index) {
     li.style.backgroundColor = i === index ? '#fff2cc' : '';
   });
 }
-```
+
