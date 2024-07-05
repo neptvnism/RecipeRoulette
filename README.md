@@ -5,7 +5,7 @@ RecipeRoulette is an interactive website designed to help you decide what to coo
 - Recipe Input: Users can input a list of recipes, separated by commas.
 - Spinning Selection: Your recipies will be highlighted and went through, and then finally selected!
 - Spin Again: If the chosen recipe isn't satisfactory, users can spin the wheel again.
-- Background Music: Enjoy background music while using the website, with an option to mute or unmute.
+- Background Music: Enjoy background music (from mrpoly on opengameart) while using the website, with an option to mute or unmute.
   
 ## How to Use 🥄
 1. Enter Recipes: Type or paste your list of recipes in the provided input area, with each recipie seperated with a comma.
