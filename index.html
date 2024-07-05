@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Recipe Roulette</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link rel="icon" href="favicon.png" type="image/png" />
+</head>
+
+<body>
+  <div class="container">
+    <h1>Recipe Roulette!</h1>
+    <p class="instructions">
+      Enter Recipes: Type or paste your list of recipes in the provided input area, with each recipe on a new line.<br><br>
+      Spin the Wheel: Click the "Spin the Wheel" button to randomly select a recipe.<br><br>
+      View Recipe: The selected recipe will be displayed. If you don't like the choice, you can click the "Spin Again" button 
+      to choose a different recipe.<br><br>
+      Background Music: Enjoy the background music while you use the site. Use the mute/unmute button to control the music.
+    </p>
+    <button id="startButton">START</button>
+  </div>
+  <audio id="backgroundMusic" src="music.wav" autoplay loop></audio>
+  <button id="muteButton" class="mute-button">🔊</button>
+  <script src="script.js"></script>
+</body>
+
+</html>
